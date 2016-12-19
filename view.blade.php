@@ -11,7 +11,7 @@
 <!---------------------*/ ?>
 @section('title')
 
-  <title>D10008 - Matrixcsgo main document</title>
+  <title>Matrix CS:GO | Not just play - build network and earn much more skins</title>
 
 @stop
 
